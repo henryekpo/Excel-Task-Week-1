@@ -1,10 +1,10 @@
-# Excel-Task-Week-1
-## Introduction
+# **Excel-Task-Week-1**
+## **Introduction**
 
 This task is based on the data training program am doing on excel.
 After the first week lessons I was given task to solve. 
 The lesson covered several areas required in data preparation; like the use of conditional formatting, filtering, removal of duplicate if any, splitting of columns, concatenating, sorting, creating of headers, flash filling, etc.
-### Task
+### **Task**
 We were told to create an imaginary table showing the fields below:
 -	Employee ID
 -	Employee Full name
@@ -45,13 +45,13 @@ To split the names of employees, i created a new column on the right side of the
 ###### **Table showing renamed columned Head**
 
 ![](duplicate.png)
-####### **Table showing no duplicates in the columns with splitted names**
+###### **Table showing no duplicates in the columns with splitted names**
 
 
 
 ![](highlight.png)
 
-######## **Table showing names with first letter 'A'(I used 'E' as my names had no name starting with 'E')**
+###### **Table showing names with first letter 'A'(I used 'E' as my names had no name starting with 'E')**
 
 
 
