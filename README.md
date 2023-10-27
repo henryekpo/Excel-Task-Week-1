@@ -1,22 +1,21 @@
-# **Excel-Task-Week-1**
+# **Data Analysis for heutech Venturez**
 ## **Introduction**
 
-This task is based on the data training program am doing on excel.
-After the first week lessons I was given task to solve. 
-The lesson covered several areas required in data preparation; like the use of conditional formatting, filtering, removal of duplicate if any, splitting of columns, concatenating, sorting, creating of headers, flash filling, etc.
+This analysis is based on my creative reasoning and manipulative skills in the the use of excel.
+This analysis covers several areas required in data preparation; like the use of conditional formatting, filtering, removal of duplicate if any, splitting of columns, concatenating, sorting, creating of headers, flash filling, etc.
 ### **Task**
-We were told to create an imaginary table showing the fields below:
+I created an imaginary table showing the fields below:
 -	Employee ID
 -	Employee Full name
 -	Department (Communication, Sales and I.T)
 -	Salary (between $5,000 to $25,000)
 -	Job Type (Part Time, Freelance or Contract)
-Furthermore, we were required to Copy and paste this table to worksheet 2 and 3.
-In work sheet 1 we are to show only employees who are ‘Freelancers’ and Highlight the workers with salaries above $10,000.
+Furthermore, i made a Copy and paste this table into more sheets
+Work sheet 1 shows only employees who are ‘Freelancers’ and Highlight the workers with salaries above $10,000.
 
-In worksheet 2, we were required to split the names of the employees to form two columns with first name and last name respectfully, After the split, we can check for duplicates if any exist and highlight.
+In worksheet 2, i splitted the names of the employees to form two columns with first name and last name respectfully, After the split, i checked for duplicates if any exist and highlight.
 
-In worksheet 3, we were required to highlight the employees whose names begin with the letter ‘E’ (using Yellow ) and lastly format the Salary Column to show the highest and lowest salaries highlighted with green and red backgrounds respectively.
+In worksheet 3, I highlighted the employees whose names begin with the letter ‘E’ (using Yellow ) and lastly format the Salary Column to show the highest and lowest salaries highlighted with green and red backgrounds respectively.
 
 
 
